@@ -8,11 +8,11 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.gabriel.studies</groupId>
+	<groupId>com.gabriel.springdata</groupId>
 	<artifactId>studies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>studies</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot data</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
